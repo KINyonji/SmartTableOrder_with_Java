@@ -1,4 +1,4 @@
-# SmartTableOrder with Java
+# Smart Table Order with Java
  
 ### 프로젝트
 
